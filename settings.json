@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "BlockBound-tQCD.aternos.me",
+    "port": 62249 ,
     "version": "",
     "try-creative": false
   },
